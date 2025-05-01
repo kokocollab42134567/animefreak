@@ -1,7 +1,7 @@
 const BASE_URL = 'https://www.animefreak.tv';
 
 module.exports = {
-  BASE_URL: 'https://www.animefreak.tv',
+  BASE_URL: 'https://www.animefreak.biz',
   ONGOING_URL: `${BASE_URL}/home/ongoing`,
   POPULAR_URL: `${BASE_URL}/home/popular-animes`,
   LATEST_EPS_URL: `${BASE_URL}/home/latest-episodes`,
